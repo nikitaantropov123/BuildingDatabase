@@ -1,1 +1,1 @@
-# portfolio
+# In this project I've created new database using real data. It simulates the database of small buisiness which sells sound inventory. It has customers, sales managers and products separated by categories.
